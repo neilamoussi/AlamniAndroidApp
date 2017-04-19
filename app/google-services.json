@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "169456814478",
+    "firebase_url": "https://myproject-bf8ad.firebaseio.com",
+    "project_id": "myproject-bf8ad",
+    "storage_bucket": "myproject-bf8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169456814478:android:2966ed629b1bfde7",
+        "android_client_info": {
+          "package_name": "alemni.gl4.insat.tn.alemni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169456814478-s53s6hnbec3q7pb6ltgck5b6rv1pqs4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq66mNdyMLVo4GGwvPm-lSNXGf8RjlTUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
